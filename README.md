@@ -1,2 +1,2 @@
-# delie-visual-studio-themes
-Themes for Visual Studio 2015 
+# delie-VisualStudio2015-Monokai
+Monokai theme for Visual Studio 2015 
